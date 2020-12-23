@@ -1,0 +1,22 @@
+{
+  "name": "nodefiledownloadsample",
+  "version": "1.0.0",
+  "description": "ファイルダウンロードの実装例。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SampleUser0001/NodeFileDownloadSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SampleUser0001/NodeFileDownloadSample/issues"
+  },
+  "homepage": "https://github.com/SampleUser0001/NodeFileDownloadSample#readme",
+  "dependencies": {
+    "ejs": "^3.1.5"
+  }
+}
